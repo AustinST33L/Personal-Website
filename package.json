@@ -9,7 +9,7 @@
   "author": "Devon Crawford",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.5.9",
+    "ejs": "^3.1.7",
     "express": "^4.16.3",
     "jsdom": "^11.10.0",
     "nodemailer": "^4.6.4",
